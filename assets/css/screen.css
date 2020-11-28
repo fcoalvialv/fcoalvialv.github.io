@@ -1020,7 +1020,7 @@ body:not(.post-template) .post-title {
 	max-width:900px;
 	margin:0px auto;
 	margin-top:-100px;
-	background:#000;
+	background:#fff;
 	position:relative;
 	padding:40px 50px;
 	font-weight:300;
@@ -1028,7 +1028,7 @@ body:not(.post-template) .post-title {
 	overflow:hidden;
 }
 .site-wrapper {
-	background-color:#f7faf9;
+	background-color:lightblue;
 }
 .sidebar {
 	width:25%;
