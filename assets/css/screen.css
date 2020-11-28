@@ -1003,7 +1003,7 @@ body:not(.post-template) .post-title {
 }
 .post-template .post-title {
 	margin-bottom:0;
-	letter-spacing:-1px;
+	letter-spacing:30px;
 	font-style:italic;
 }
 .post-template .post-meta {
