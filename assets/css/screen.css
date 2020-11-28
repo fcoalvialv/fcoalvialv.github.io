@@ -1037,7 +1037,7 @@ body:not(.post-template) .post-title {
 }
 .widget {
 	padding:30px;
-	background:#f7faf9;
+	background:#000000;
 	margin-bottom:30px;
 	overflow:hidden;
 	font-size:1.5rem;
