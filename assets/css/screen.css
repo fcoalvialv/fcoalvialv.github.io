@@ -216,7 +216,7 @@ body {
 	letter-spacing:0.01rem;
 	font-size:1.7rem;
 	line-height:1.75em;
-	color:#fff;
+	color:#fff;/* Color de letras en cuerpo/*
 	-webkit-font-feature-settings:'kern' 1;
 	-moz-font-feature-settings:'kern' 1;
 	-o-font-feature-settings:'kern' 1;
