@@ -221,7 +221,7 @@ body {
 	-moz-font-feature-settings:'kern' 1;
 	-o-font-feature-settings:'kern' 1;
 	text-rendering:geometricPrecision;
-	font-weight:100;
+	font-weight:50;
 }
 ::-moz-selection {
 	background:#D6EDFF;
