@@ -264,7 +264,7 @@ a {
 	transition:color 0.3s ease;
 }
 a:hover {
-	color:#111;
+	color:#fff;
 }
 p,ul,ol,dl {
 	-webkit-font-feature-settings:'liga' 1,'onum' 1,'kern' 1;
