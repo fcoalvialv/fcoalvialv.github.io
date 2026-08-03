@@ -11,7 +11,7 @@ website:
         text: Inicio
       - href: research.qmd
         text: Investigación
-      - href: projects.qmd
+      - href: projects/index.qmd
         text: Proyectos
       - href: publications.qmd
         text: Publicaciones
