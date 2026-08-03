@@ -1,0 +1,32 @@
+---
+title: "Francisco J. Alvial Vásquez"
+subtitle: "Geofísico · Investigador postdoctoral · Universidad de Concepción"
+page-layout: full
+---
+
+## Perfil científico
+
+Soy geofísico e investigador postdoctoral en la Universidad de Concepción. Mi trabajo integra observaciones, productos satelitales, reanálisis, modelación numérica y aprendizaje automático informado por la física para estudiar procesos hidroclimáticos y oceanográficos.
+
+Actualmente desarrollo investigación sobre floraciones algales nocivas en fiordos chilenos, con énfasis en turbulencia, transporte, estratificación y redes neuronales informadas por la física.
+
+## Líneas de investigación
+
+- Aprendizaje automático informado por la física.
+- Turbulencia y mezcla vertical en sistemas costeros y fiordos.
+- Floraciones algales nocivas y predicción ambiental.
+- Hidroclimatología, teledetección y productos de reanálisis.
+- Reducción de escala mediante aprendizaje profundo.
+
+## Proyecto actual
+
+### Fondecyt de Postdoctorado 3261347
+
+Desarrollo de un marco de modelación que integra datos atmosféricos, oceanográficos y satelitales con simulaciones hidrodinámicas y restricciones físicas asociadas al transporte y la mezcla turbulenta.
+
+[Conocer el proyecto](projects.qmd)
+
+## Enlaces
+
+- [GitHub](https://github.com/fcoalvialv)
+- [Universidad de Concepción](https://www.udec.cl/)
