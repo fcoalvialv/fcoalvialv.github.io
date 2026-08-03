@@ -1,0 +1,15 @@
+---
+title: "Docencia"
+---
+
+## Docencia universitaria
+
+Esta sección presentará asignaturas, materiales docentes, cursos especializados y actividades de formación.
+
+### Áreas de enseñanza
+
+- Física general y electromagnetismo.
+- Geofísica e hidroclimatología.
+- Programación científica con Python.
+- Aprendizaje automático aplicado a ciencias geofísicas.
+- Redes neuronales informadas por la física.
