@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Francisco J. Alvial Vásquez"
+  site-url: "https://fcoalvialv.github.io/"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Inicio
+      - href: research.qmd
+        text: Investigación
+      - href: projects.qmd
+        text: Proyectos
+      - href: publications.qmd
+        text: Publicaciones
+      - href: teaching.qmd
+        text: Docencia
+      - href: contact.qmd
+        text: Contacto
+    right:
+      - icon: github
+        href: https://github.com/fcoalvialv
+        aria-label: GitHub
+  page-footer:
+    left: "© 2026 Francisco J. Alvial Vásquez"
+    right: "Construido con Quarto"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    smooth-scroll: true
+    link-external-newwindow: true
+
+execute:
+  freeze: auto
