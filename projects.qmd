@@ -1,0 +1,29 @@
+---
+title: "Proyectos"
+---
+
+## Fondecyt de Postdoctorado 3261347
+
+### Problema científico
+
+Las floraciones algales nocivas representan un riesgo ambiental, sanitario y económico importante en sistemas costeros y fiordos. En Chile, los modelos de monitoreo y predicción todavía representan de manera limitada la turbulencia y la mezcla vertical.
+
+### Objetivo general
+
+Desarrollar un marco de modelación que combine observaciones históricas, productos satelitales, reanálisis, simulaciones hidrodinámicas y aprendizaje automático informado por la física para estudiar condiciones favorables a floraciones algales nocivas.
+
+### Componentes metodológicos
+
+1. Integración y evaluación de datos atmosféricos, oceanográficos, satelitales e históricos.
+2. Diagnóstico de turbulencia, estratificación, transporte y tiempo de residencia.
+3. Modelación hidrodinámica anidada mediante CROCO o SCHISM.
+4. Desarrollo de una red neuronal informada por la física.
+5. Reconstrucción retrospectiva y evaluación de eventos históricos.
+
+### Estado actual
+
+El proyecto se encuentra en la etapa de recopilación, control de calidad, armonización y evaluación de los conjuntos de datos que servirán como base para la modelación posterior.
+
+### Financiamiento
+
+Agencia Nacional de Investigación y Desarrollo, ANID. Concurso Fondecyt de Postdoctorado 2026.
