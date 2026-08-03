@@ -32,3 +32,5 @@ jobs:
           name: quarto-site-preview
           path: _site
           retention-days: 14
+
+# This workflow validates the migration branch without publishing the public site.
