@@ -1,16 +1,24 @@
-/* Identidad visual inicial del sitio académico */
+/* Identidad visual del sitio académico */
 
 :root {
   --site-max-width: 1180px;
+  --site-accent: #0d5c63;
+  --site-accent-dark: #083f44;
+  --site-soft: #eef6f5;
+  --site-border: #d9e6e4;
 }
 
 .navbar-brand {
   font-weight: 700;
 }
 
+.navbar {
+  border-bottom: 1px solid var(--site-border);
+}
+
 .quarto-title-banner {
-  padding-top: 3.5rem;
-  padding-bottom: 3.5rem;
+  padding-top: 2.5rem;
+  padding-bottom: 2rem;
 }
 
 main.content {
@@ -23,12 +31,112 @@ h3 {
   letter-spacing: -0.02em;
 }
 
+h2 {
+  margin-top: 2.5rem;
+}
+
 p,
 li {
   line-height: 1.7;
 }
 
+a {
+  text-underline-offset: 0.16em;
+}
+
+.hero-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.65fr) minmax(220px, 0.75fr);
+  gap: 3rem;
+  align-items: center;
+  padding: 2rem 0 3rem;
+}
+
+.hero-text h1 {
+  font-size: clamp(2rem, 4vw, 3.65rem);
+  line-height: 1.08;
+  margin-top: 0;
+}
+
+.hero-text p {
+  font-size: 1.08rem;
+  max-width: 760px;
+}
+
+.hero-photo img {
+  width: min(100%, 300px);
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+  border: 6px solid white;
+  box-shadow: 0 14px 35px rgba(8, 63, 68, 0.18);
+}
+
+.btn-primary {
+  background-color: var(--site-accent);
+  border-color: var(--site-accent);
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+  background-color: var(--site-accent-dark);
+  border-color: var(--site-accent-dark);
+}
+
+.btn-outline-primary {
+  color: var(--site-accent);
+  border-color: var(--site-accent);
+}
+
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.25rem;
+  margin: 1.25rem 0 2.5rem;
+}
+
+.research-card {
+  padding: 1.4rem 1.5rem;
+  border: 1px solid var(--site-border);
+  border-radius: 0.8rem;
+  background: white;
+  box-shadow: 0 6px 18px rgba(8, 63, 68, 0.05);
+}
+
+.research-card h3 {
+  margin-top: 0;
+  color: var(--site-accent-dark);
+}
+
+.project-highlight {
+  padding: 1.6rem 1.8rem;
+  border-left: 0.35rem solid var(--site-accent);
+  background: var(--site-soft);
+  border-radius: 0.4rem;
+}
+
+.project-highlight h3 {
+  margin-top: 0;
+}
+
 blockquote {
   border-left-width: 0.3rem;
   padding-left: 1rem;
+}
+
+@media (max-width: 800px) {
+  .hero-grid,
+  .research-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .hero-photo {
+    order: -1;
+  }
+
+  .hero-photo img {
+    width: 210px;
+  }
 }
