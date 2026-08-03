@@ -1,0 +1,109 @@
+---
+title: "Fondecyt de Postdoctorado 3261347"
+subtitle: "Turbulencia, modelación hidrodinámica y aprendizaje automático informado por la física para floraciones algales nocivas en fiordos chilenos"
+description: "Página preliminar del proyecto Fondecyt de Postdoctorado 3261347."
+---
+
+## Resumen
+
+Las floraciones algales nocivas constituyen un riesgo ambiental, sanitario y económico para los sistemas costeros y de fiordos. En el sur de Chile, estos eventos ocurren en ambientes con circulación compleja, fuerte estratificación y variabilidad turbulenta, pero estos procesos físicos suelen estar representados de forma limitada en los sistemas de monitoreo y predicción.
+
+El proyecto propone integrar datos atmosféricos, oceanográficos, satelitales e históricos con simulaciones hidrodinámicas y redes neuronales informadas por la física. El foco está puesto en evaluar de qué manera la turbulencia, la mezcla vertical, el transporte y el tiempo de residencia condicionan estados favorables para el desarrollo y persistencia de floraciones algales nocivas.
+
+## Información general
+
+- **Código:** Fondecyt de Postdoctorado 3261347.
+- **Investigador responsable:** Francisco J. Alvial Vásquez.
+- **Institución:** Universidad de Concepción.
+- **Financiamiento:** Agencia Nacional de Investigación y Desarrollo, ANID.
+- **Área de aplicación:** fiordos y canales de la Patagonia chilena.
+- **Caso de referencia inicial:** evento de floración algal nociva de 2016 en el sistema de Reloncaví.
+
+## Problema científico
+
+Los modelos convencionales de monitoreo y predicción de floraciones algales nocivas se apoyan principalmente en variables superficiales, productos satelitales y relaciones empíricas. Sin embargo, la acumulación, dispersión y persistencia del fitoplancton también dependen de procesos como la mezcla vertical, el corte, la estratificación y el transporte advectivo.
+
+La hipótesis central del proyecto es que la incorporación explícita de restricciones físicas asociadas a la turbulencia puede mejorar la consistencia física y la capacidad predictiva de modelos de aprendizaje automático bajo condiciones de observación limitada.
+
+## Objetivo general
+
+Desarrollar un marco de modelación que combine observaciones históricas, productos satelitales, reanálisis, simulaciones hidrodinámicas y aprendizaje automático informado por la física para estudiar y predecir condiciones favorables a floraciones algales nocivas en fiordos chilenos.
+
+## Objetivos específicos
+
+1. Caracterizar y clasificar regímenes dominantes de mezcla y estratificación.
+2. Implementar simulaciones hidrodinámicas anidadas para reconstruir eventos históricos.
+3. Desarrollar una red neuronal informada por la física con restricciones de transporte y mezcla turbulenta.
+4. Evaluar retrospectivamente la capacidad del modelo para representar condiciones asociadas a floraciones.
+5. Establecer una base metodológica para herramientas futuras de apoyo al monitoreo y alerta temprana.
+
+## Fuentes de datos
+
+El proyecto considera la integración de:
+
+- reanálisis atmosféricos, incluyendo ERA5;
+- productos oceánicos de CMEMS;
+- información satelital de color del océano, incluyendo MODIS-Aqua, VIIRS y Sentinel-3 OLCI;
+- batimetría y geometría costera;
+- registros históricos de floraciones algales nocivas;
+- perfiles oceanográficos y variables de turbulencia, cuando estén disponibles;
+- información institucional y reportes oficiales.
+
+## Metodología
+
+El flujo metodológico preliminar contempla cinco componentes:
+
+1. **Integración y control de calidad de datos.** Compilación, auditoría, armonización temporal y espacial, evaluación de cobertura y trazabilidad.
+2. **Diagnóstico físico.** Cálculo o análisis de variables asociadas a turbulencia, estratificación, corte, transporte y tiempo de residencia.
+3. **Modelación hidrodinámica.** Implementación de un modelo anidado mediante CROCO o SCHISM, sujeto a evaluación metodológica y disponibilidad de datos.
+4. **Aprendizaje automático informado por la física.** Desarrollo de una red neuronal informada por la física, conocida como PINN, con restricciones de transporte y mezcla turbulenta.
+5. **Evaluación retrospectiva.** Reconstrucción y comparación de eventos históricos mediante métricas físicas, estadísticas y de detección.
+
+## Paquetes de trabajo
+
+### WP1 — Integración y evaluación de datos
+
+Recopilación, control de calidad, armonización y evaluación de disponibilidad, consistencia, cobertura y trazabilidad de datos atmosféricos, oceanográficos, satelitales e históricos.
+
+### WP2 — Modelación hidrodinámica
+
+Configuración de dominios anidados y reconstrucción de circulación, temperatura, salinidad, transporte y variables relacionadas con mezcla vertical.
+
+### WP3 — Desarrollo de la PINN
+
+Diseño de una red neuronal informada por la física que combine observaciones con residuos asociados a transporte, mezcla turbulenta y dinámica biológica simplificada.
+
+### WP4 — Reconstrucción retrospectiva y predicción
+
+Evaluación de eventos históricos y análisis del horizonte temporal útil para la predicción.
+
+### WP5 — Transferencia y comunicación
+
+Desarrollo progresivo de productos reproducibles, documentación, visualizaciones, repositorios y capacidades de transferencia hacia usuarios científicos e institucionales.
+
+## Estado actual
+
+El proyecto se encuentra en la fase inicial correspondiente principalmente al primer paquete de trabajo. Las actividades actuales incluyen:
+
+- construcción de un catálogo multievento;
+- descarga y auditoría de datos ERA5;
+- procesamiento de productos satelitales;
+- recopilación de información oceanográfica e institucional;
+- definición de métricas de cobertura, calidad, consistencia y utilidad para modelación física y aprendizaje automático.
+
+Las simulaciones hidrodinámicas completas y el entrenamiento cuantitativo de la PINN aún no se han finalizado. Por esta razón, la página presenta por ahora el marco científico, la metodología y los avances de preparación de datos, evitando reportar resultados predictivos que todavía no están disponibles.
+
+## Productos esperados
+
+- inventario y evaluación multifuente de datos para eventos de floraciones algales nocivas;
+- atlas de regímenes físicos y de mezcla;
+- simulaciones hidrodinámicas retrospectivas;
+- código reproducible para el desarrollo y evaluación de la PINN;
+- publicaciones científicas y presentaciones en congresos;
+- visualizaciones y productos web para difusión y transferencia.
+
+## Avances y publicaciones
+
+Esta sección se actualizará con artículos, conjuntos de datos, repositorios, pósteres, presentaciones y productos derivados a medida que sean completados y validados.
+
+[Volver al índice de proyectos](index.qmd)
