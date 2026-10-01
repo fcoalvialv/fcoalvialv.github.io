@@ -1,0 +1,25 @@
+---
+title: "Investigación"
+---
+
+## Enfoque
+
+Mi investigación busca comprender y predecir procesos geofísicos mediante la integración de observaciones, modelación numérica y aprendizaje automático.
+
+## Áreas actuales
+
+### Floraciones algales nocivas
+
+Estudio de las condiciones atmosféricas, oceanográficas y bio-ópticas asociadas con eventos de floraciones algales nocivas en la Patagonia chilena.
+
+### Turbulencia y mezcla vertical
+
+Caracterización de la disipación de energía cinética turbulenta, la difusividad vertical, la estratificación, el corte vertical y el tiempo de residencia.
+
+### Aprendizaje automático informado por la física
+
+Desarrollo de redes neuronales informadas por la física, conocidas como PINNs, para incorporar ecuaciones de transporte y restricciones de mezcla turbulenta en problemas con observaciones limitadas.
+
+### Hidroclimatología y reducción de escala
+
+Uso de datos satelitales, reanálisis y aprendizaje profundo para construir campos hidroclimáticos de alta resolución.

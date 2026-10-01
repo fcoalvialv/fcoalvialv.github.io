@@ -1,0 +1,31 @@
+---
+title: "Proyectos"
+description: "Proyectos de investigación en geofísica, hidroclimatología, oceanografía y aprendizaje automático informado por la física."
+toc: false
+---
+
+## Proyecto actual
+
+::: {.project-highlight}
+### Fondecyt de Postdoctorado 3261347
+
+**Tema:** floraciones algales nocivas, turbulencia costera y redes neuronales informadas por la física.
+
+El proyecto busca integrar observaciones históricas, productos satelitales, reanálisis, simulaciones hidrodinámicas y restricciones físicas asociadas al transporte y la mezcla turbulenta en fiordos chilenos.
+
+**Estado actual:** recopilación, control de calidad, armonización y evaluación de datos atmosféricos, oceanográficos, satelitales e históricos.
+
+[Ver página del proyecto](fondecyt-3261347.qmd){.btn .btn-primary}
+:::
+
+## Líneas asociadas
+
+- Floraciones algales nocivas en sistemas de fiordos.
+- Turbulencia, estratificación y mezcla vertical.
+- Modelación hidrodinámica anidada.
+- Redes neuronales informadas por la física.
+- Integración multifuente y evaluación de disponibilidad de datos.
+
+## Proyectos anteriores
+
+Esta sección se completará posteriormente con proyectos de hidroclimatología, productos ambientales de alta resolución, reducción de escala y modelación hidrológica desarrollados durante etapas previas de la trayectoria científica.

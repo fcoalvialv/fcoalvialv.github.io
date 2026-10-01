@@ -1,0 +1,14 @@
+---
+title: "Contacto"
+---
+
+## Información profesional
+
+**Francisco J. Alvial Vásquez**  
+Geofísico e investigador postdoctoral  
+Universidad de Concepción, Chile
+
+- GitHub: [fcoalvialv](https://github.com/fcoalvialv)
+- Correo: [franciscojalvia@udec.cl](mailto:franciscojalvia@udec.cl)
+
+Consulta el [perfil académico](profile.qmd) para revisar formación, trayectoria, perfiles de investigación y el estado del currículum descargable.

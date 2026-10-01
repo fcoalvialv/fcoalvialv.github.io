@@ -1,0 +1,14 @@
+---
+title: "Publicaciones"
+---
+
+Esta sección reunirá artículos, capítulos, conjuntos de datos, presentaciones en congresos y trabajos en preparación.
+
+## Artículos
+
+- Alvial Vásquez, F.-J., Abarca-del-Río, R. y Ávila, A. I. (2020). *High-Resolution Precipitation Gridded Dataset on the South-Central Zone (34°S–41°S) of Chile*. Frontiers in Earth Science. [https://doi.org/10.3389/feart.2020.519975](https://doi.org/10.3389/feart.2020.519975)
+
+## En preparación
+
+- Integración multievento y evaluación de disponibilidad de datos para floraciones algales nocivas en canales patagónicos.
+- Aprendizaje automático informado por la física con restricciones de turbulencia para sistemas de fiordos chilenos.
