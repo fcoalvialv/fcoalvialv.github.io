@@ -1,0 +1,105 @@
+---
+title: "Perfil académico"
+subtitle: "Francisco J. Alvial Vásquez"
+description: "Formación, trayectoria académica, perfiles de investigación y currículum."
+lang: es
+toc: true
+---
+
+Soy geofísico e investigador postdoctoral en la Universidad de Concepción, Chile. Mi trabajo integra observaciones, productos satelitales, reanálisis, modelación numérica y aprendizaje automático aplicado a procesos hidroclimáticos y oceanográficos.
+
+[Investigación](research.qmd){.btn .btn-outline-primary} [Proyecto postdoctoral](projects/fondecyt-3261347.qmd){.btn .btn-outline-primary} [Contacto](contact.qmd){.btn .btn-outline-primary}
+
+::: {.callout-note}
+## Perfil en preparación
+
+Esta versión reúne antecedentes del sitio existente. **Pendiente de verificar** identifica información que necesita confirmación antes de publicar: fechas, denominaciones oficiales de grados y cargos, y enlaces personales.
+:::
+
+## Cargo actual {#cargo-actual}
+
+### Investigador postdoctoral — Universidad de Concepción
+
+Investigador responsable del **Fondecyt de Postdoctorado 3261347**, dedicado al estudio de floraciones algales nocivas en fiordos chilenos mediante modelación e integración de datos y restricciones físicas.
+
+- **Período:** pendiente de verificar fechas de inicio y término.
+- **Unidad académica y denominación contractual del cargo:** pendientes de verificar.
+- **Proyecto:** [objetivos, metodología y avances](projects/fondecyt-3261347.qmd).
+
+## Formación académica {#formacion}
+
+### Formación doctoral — Universidad de Concepción
+
+El sitio anterior registra el ingreso en **2019** a un doctorado vinculado al Departamento de Física de la Facultad de Ciencias Físicas y Matemáticas.
+
+**Pendiente de verificar:** nombre oficial del programa y grado, fecha de obtención y título de tesis. La fuente histórica utiliza tanto “Applied Physics” como “physical sciences”; no permite confirmar la denominación definitiva ni la graduación. Su antigua indicación “2019–presente” requiere actualización.
+
+### Geofísica — Universidad de Concepción
+
+- **Período consignado en el sitio anterior:** 2010–2018.
+- **Unidad:** Departamento de Geofísica, Facultad de Ciencias Físicas y Matemáticas.
+- **Tesis consignada:** *Producto de precipitación reticulado en alta resolución espacial; una metodología dinámico-geoestadística aplicada en la zona Centro-Sur (32°S–41°S) de Chile*.
+
+**Pendiente de verificar:** denominación oficial del título y grado, fecha de titulación y enlace al registro de tesis.
+
+## Experiencia académica previa {#experiencia}
+
+Las actividades siguientes están registradas en la página docente anterior. Se presentan como antecedentes de docencia y evaluación; la categoría contractual y la duración de los cargos requieren confirmación.
+
+### Universidad de Concepción — 2020
+
+Colaboración docente en el Departamento de Geofísica, Facultad de Ciencias Físicas y Matemáticas:
+
+- Análisis de Datos Geofísicos, código 513421.
+- Mecánica de Fluidos, código 513313.
+
+**Pendiente de verificar:** denominaciones oficiales de las asignaturas, categoría del cargo y semestre de participación.
+
+### Universidad del Bío-Bío — 2020
+
+La página anterior registra participación en la asignatura **Advanced GIS**, código 242069, en la Facultad de Ciencias, Chillán. GIS corresponde a sistemas de información geográfica.
+
+También registra participación como **coevaluador de una tesis de pregrado** de Ingeniería en Recursos Naturales en 2020.
+
+**Pendiente de verificar:** nombre oficial de la asignatura, función docente, categoría contractual y denominación formal del rol de evaluación.
+
+### Otros cargos y períodos
+
+**Pendiente de completar:** cargos académicos o de investigación adicionales, instituciones, unidades, funciones y fechas. No se han añadido antecedentes sin respaldo.
+
+[Ver sección de docencia](teaching.qmd)
+
+## Perfiles académicos {#perfiles}
+
+| Perfil | Enlace o estado |
+|:--|:--|
+| ORCID (Open Researcher and Contributor ID; identificador de investigador) | **Pendiente de verificar:** identificador y enlace personal. |
+| Google Scholar | **Pendiente de verificar:** enlace al perfil personal. |
+| ResearchGate | **Pendiente de verificar:** enlace al perfil personal. |
+| GitHub | [fcoalvialv](https://github.com/fcoalvialv) |
+| Perfil institucional | **Pendiente de verificar:** página personal de la Universidad de Concepción. |
+| Otros perfiles relevantes | **Pendiente de evaluar:** agregar únicamente perfiles personales o repositorios académicos confirmados. |
+
+## Currículum descargable {#cv}
+
+**Currículum vitae (CV): pendiente de incorporar y verificar.** No hay un documento descargable en la estructura revisada del repositorio.
+
+Se habilitará el enlace de descarga cuando exista una versión autorizada y actualizada. Quedan pendientes el archivo, su idioma y la fecha de actualización.
+
+<!-- Al incorporar el PDF verificado, agregar el enlace de descarga y comprobar
+que el archivo exista y se incluya en _site. No activar enlaces a archivos ausentes. -->
+
+## Fuentes y revisión de antecedentes {#fuentes}
+
+::: {.callout-note collapse="true"}
+## Procedencia de esta versión preliminar
+
+Revisión del repositorio realizada el **1 de octubre de 2026**:
+
+- [Portada Quarto](https://github.com/fcoalvialv/fcoalvialv.github.io/blob/1531b42b7780eebc02e8a5e63d38c4d0d92f795a/index.qmd): respaldo para la síntesis profesional y afiliación consignada; no acredita fechas contractuales.
+- [Página del proyecto](https://github.com/fcoalvialv/fcoalvialv.github.io/blob/1531b42b7780eebc02e8a5e63d38c4d0d92f795a/projects/fondecyt-3261347.qmd): código, institución y responsabilidad del proyecto; es una página preliminar.
+- [Portada histórica](https://github.com/fcoalvialv/fcoalvialv.github.io/blob/1531b42b7780eebc02e8a5e63d38c4d0d92f795a/index.html): períodos de formación y título de tesis; contiene un estado doctoral desactualizado y denominaciones que necesitan confirmación.
+- [Docencia histórica](https://github.com/fcoalvialv/fcoalvialv.github.io/blob/1531b42b7780eebc02e8a5e63d38c4d0d92f795a/teaching.html): actividades universitarias de 2020; no documenta categorías contractuales ni semestres.
+
+Estas fuentes permiten recuperar antecedentes del sitio, pero no sustituyen un currículum actualizado ni certificados oficiales.
+:::

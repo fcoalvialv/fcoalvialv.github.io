@@ -9,6 +9,8 @@ website:
     left:
       - href: index.qmd
         text: Inicio
+      - href: profile.qmd
+        text: Perfil académico
       - href: research.qmd
         text: Investigación
       - href: projects/index.qmd

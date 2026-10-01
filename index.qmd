@@ -65,4 +65,4 @@ El proyecto desarrolla un marco de modelación para estudiar floraciones algales
 
 Soy geofísico e investigador postdoctoral en la Universidad de Concepción. Mi trayectoria incluye hidroclimatología, desarrollo de productos ambientales de alta resolución, modelación numérica y aprendizaje automático aplicado a ciencias de la Tierra.
 
-[Publicaciones](publications.qmd) · [Docencia](teaching.qmd) · [Contacto](contact.qmd) · [GitHub](https://github.com/fcoalvialv)
+[Perfil académico](profile.qmd) · [Publicaciones](publications.qmd) · [Docencia](teaching.qmd) · [Contacto](contact.qmd) · [GitHub](https://github.com/fcoalvialv)
