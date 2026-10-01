@@ -31,7 +31,10 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme:
+      dark: darkly
+      light: cosmo
+    respect-user-color-scheme: false
     css: styles.css
     toc: true
     smooth-scroll: true

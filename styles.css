@@ -6,6 +6,25 @@
   --site-accent-dark: #083f44;
   --site-soft: #eef6f5;
   --site-border: #d9e6e4;
+  --site-surface: #ffffff;
+  --site-button-text: #ffffff;
+}
+
+/* Quarto cambia esta clase al alternar el tema. */
+body.quarto-dark {
+  --site-accent: #78d6cc;
+  --site-accent-dark: #a5e8e0;
+  --site-soft: #203638;
+  --site-border: #42585a;
+  --site-surface: #293436;
+  --site-button-text: #102426;
+}
+
+.btn-outline-primary:hover,
+.btn-outline-primary:focus {
+  color: var(--site-button-text);
+  background-color: var(--site-accent);
+  border-color: var(--site-accent);
 }
 
 .navbar-brand {
@@ -70,17 +89,19 @@ a {
   border-radius: 50%;
   display: block;
   margin: 0 auto;
-  border: 6px solid white;
+  border: 6px solid var(--site-surface);
   box-shadow: 0 14px 35px rgba(8, 63, 68, 0.18);
 }
 
 .btn-primary {
+  color: var(--site-button-text);
   background-color: var(--site-accent);
   border-color: var(--site-accent);
 }
 
 .btn-primary:hover,
 .btn-primary:focus {
+  color: var(--site-button-text);
   background-color: var(--site-accent-dark);
   border-color: var(--site-accent-dark);
 }
@@ -101,7 +122,7 @@ a {
   padding: 1.4rem 1.5rem;
   border: 1px solid var(--site-border);
   border-radius: 0.8rem;
-  background: white;
+  background: var(--site-surface);
   box-shadow: 0 6px 18px rgba(8, 63, 68, 0.05);
 }
 
